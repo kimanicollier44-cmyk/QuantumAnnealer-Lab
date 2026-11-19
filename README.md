@@ -1,4 +1,4 @@
-![QuantumAnnealer-Lab cover](assets/cover.png)
+![QuantumAnnealer-Lab cover](QuantumAnnealer-Lab%20cover.png)
 
 # QuantumAnnealer-Lab 🌡️⚛️
 
